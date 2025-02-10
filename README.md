@@ -22,7 +22,9 @@
    cd loging_project
 
 2. Соберите проект:
+```bash
 make
+
 Это создаст:
 
 Динамическую библиотеку liblogger.so.
